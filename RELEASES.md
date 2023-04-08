@@ -1,6 +1,6 @@
 # Sui Releases
 
-Releases for the Sui Devnet network are based on the `devnet` branch.
+Releases for the Sui Devnet network are based on the `devnet` branch of SUI.
 
 ## Current Release
 * 23-03-27: [0.29.0](https://github.com/MystenLabs/sui/releases/tag/devnet-0.29.0)
